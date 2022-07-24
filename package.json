@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "@types/react": "^18.0.15",
+    "sass": "^1.54.0",
+    "typescript": "^4.7.4"
+  }
+}
